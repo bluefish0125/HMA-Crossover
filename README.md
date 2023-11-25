@@ -2,7 +2,7 @@
 ### Overview
 This GitHub repository hosts a simple High-Frequency Trading (HFT) strategy implemented using the Hull Moving Average (HMA) crossover technique. The strategy is designed to operate on the EUR/USD forex pair and has been developed using the Nautilus Trader platform. 
 
-### Features
+### **Features**
 **Hull Moving Average (HMA):** The strategy leverages the Hull Moving Average, a sophisticated moving average indicator that reduces lag while maintaining smoothness.
 
 **Fast Execution:** Tailored for high-frequency trading, the strategy aims to execute trades swiftly in response to HMA crossover signals.
