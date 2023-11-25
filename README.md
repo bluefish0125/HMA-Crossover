@@ -8,7 +8,7 @@ This GitHub repository hosts a simple High-Frequency Trading (HFT) strategy impl
 
 **Fast Execution:** Tailored for high-frequency trading, the strategy aims to execute trades swiftly in response to HMA crossover signals.
 
-**Backtesting:** Extensive backtesting has been performed on historical data for the EUR/USD pair using the Nautilus Trader platform. This ensures the strategy's robustness and effectiveness under various market conditions.
+**Backtesting:** Extensive backtesting has been performed on historical data for the EUR/USD pair using the Nautilus Trader platform. 
 
 
 ### Getting Started
